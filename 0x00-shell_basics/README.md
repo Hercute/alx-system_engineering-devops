@@ -1,1 +1,1 @@
-shell basics Task 0
+Display the contents list of your current directory
