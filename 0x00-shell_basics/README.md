@@ -1,1 +1,1 @@
-Dsiplay dir contents,in long format,with user id and hidden files
+A script that creates a directory inside a directory
