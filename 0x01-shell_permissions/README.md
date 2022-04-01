@@ -1,1 +1,1 @@
-a script that sets permission to the file hello as follows, owener-no permission , group- no perm, other users-all perm
+a script that sets this mod, -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
