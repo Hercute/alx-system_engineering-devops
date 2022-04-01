@@ -1,1 +1,1 @@
-switch the current user to use betty
+A script to print the effective username of the current user
