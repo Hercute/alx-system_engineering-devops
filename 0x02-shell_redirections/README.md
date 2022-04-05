@@ -1,1 +1,1 @@
-a script that prints 'Hello, World', followed by a new line to the standard output.
+A command that finds all empty files and directories in the current directory and all subdirectories
