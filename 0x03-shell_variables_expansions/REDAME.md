@@ -1,1 +1,1 @@
-10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+a script that displays the result of BREATH to the power LOVE
